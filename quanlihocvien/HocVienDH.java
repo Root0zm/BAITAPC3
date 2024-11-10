@@ -5,7 +5,7 @@ public class HocVienDH extends Hocvien{
 	protected int donGia;
 	protected int uuTien;
 	public HocVienDH() {
-		
+		super();
 	}
 	
 	public HocVienDH(String hoTen, String diaChi, String chuongTrinh, int loaiUT, int soBuoi, int donGia, int uuTien) {
