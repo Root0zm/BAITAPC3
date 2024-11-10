@@ -1,5 +1,5 @@
 
-package addressBasic;
+package diachinhanvien;
 public class DiaChi {
 	//thuoc tinh
 		private String thon;
