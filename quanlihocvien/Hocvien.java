@@ -8,7 +8,7 @@ public abstract class Hocvien {
 	public Hocvien() {
 	}
 	public Hocvien(String hoTen, String diaChi, String chuongTrinh, int loaiUT) {
-		super();
+		
 		this.hoTen = hoTen;
 		this.diaChi = diaChi;
 		this.chuongTrinh = chuongTrinh;
